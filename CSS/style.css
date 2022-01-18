@@ -1,0 +1,35 @@
+/* Navbar */
+.inline-block {
+  display: inline-block;
+  vertical-align:top;
+}
+.class {
+  width: 23%;
+  padding: 1%;
+}
+.ul {
+  width: 50%;
+  margin-left: auto;
+}
+.logo {
+  text-align: center;
+}
+/* hero image */
+.heroimg {
+  height: 600px;
+  padding: 25px;
+}
+.content {
+  width: 500px;
+  margin: 0-auto;
+}
+/* Footer */
+.footer {
+  background-color: #373738;
+  display: flex;
+    justify-content: space-between /* this part I'm not sure about... centering ul and li using padding? */
+}
+.ul {
+  display: inline-block;
+  vertical-align: top;
+}
